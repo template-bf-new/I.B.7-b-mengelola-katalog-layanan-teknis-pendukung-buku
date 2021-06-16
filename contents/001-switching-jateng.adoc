@@ -1,0 +1,21 @@
+== *_Payment Gateway Bank Jateng_*
+
+=== Nama Komponen Layanan Teknis/Pendukung
+
+=== Nama Layanan yang Didukung
+
+mengacu ke katalog layanan untuk bisnis / pelanggan
+
+=== Referensi SLA (_Service Level Agreement_) yang telah disetujui
+
+menunjukkan tautan ke SLA  terkait
+
+=== Kemampuan Teknis Tingkat Layanan Saat Ini
+
+=== Proses Penyediaan Layanan
+
+=== Periode Kajian Terhadap Layanan dan Laporannya
+
+=== Versi dan Tanggal Revisi 
+
+menjelaskan versi perubahan layanan teknologi informasi beserta tanggal perubahannya
